@@ -245,6 +245,20 @@ nav {
     transform: scale(1.1);
 }
 
+
+/*Begining of Blog page (Page 2) CSS*/
+
+article {
+    margin: 24px;
+}
+
+.blog-title {
+    color: black;
+    font-family: "Bree Serif", Georgia, serif;
+    font-size: 2em;
+    margin-top: 40%;
+}
+
 @media screen and (max-width: 900px) {
 
     #hero,
@@ -309,15 +323,3 @@ nav {
     }
 }
 
-/*Begining of Blog page (Page 2) CSS*/
-
-article {
-    margin: 24px;
-}
-
-.blog-title {
-    color: black;
-    font-family: "Bree Serif", Georgia, serif;
-    font-size: 2em;
-    margin-top: 40%;
-}
